@@ -1,10 +1,10 @@
 # TechTrendGPT 🤖
 
 <div align="center">
-  <img src="app/assets/TechTrendGPT_Logo.png" alt="TechTrendGPT Logo" width="200"/>
+  <img src="app/assets/TechTrendGPT_Logo.png" alt="TechTrendGPT Logo" width="500"/>
   <br/>
   <p>
-    <strong>An RAG based chatbot specializing in technology discussions and real-time tech news updates</strong>
+    <strong>An RAG-based chatbot specializing in technology discussions and providing real-time tech news updates.</strong>
   </p>
 </div>
 
@@ -26,7 +26,7 @@
 
 ![image](https://github.com/user-attachments/assets/ad56e417-5836-4df2-8b73-12964cfe8938)
 
-## Check Linkedln for video demo
+## Check LinkedIn for video demo
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +78,6 @@ Before you begin, ensure you have the following installed:
 
 5. **Access the application**
    Open [http://localhost:3000](http://localhost:3000) in your browser
-
 
 ## 📁 Project Structure
 
@@ -154,4 +153,3 @@ Default schedule: Daily at midnight (configurable in `package.json`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
