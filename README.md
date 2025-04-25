@@ -149,26 +149,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments 🙏
-
-- OpenAI for their powerful API
-- NewsAPI for real-time news data
-- Next.js team for the amazing framework
-- All contributors and users of TechTrendGPT
-
-## Contact 📧
-
-Your Name - [@yourusername](https://twitter.com/yourusername)
-
-Project Link: [https://github.com/yourusername/techtrendgpt](https://github.com/yourusername/techtrendgpt)
-
----
-
-Made with ❤️ by [Your Name]
-=======
-# TechTrendGPT
->>>>>>> 19caefc2536dcf91bed814de7717ee53bbe43441
