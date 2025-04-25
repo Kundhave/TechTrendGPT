@@ -6,17 +6,32 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "seed": "ts-node ./scripts/loadDB.ts",
+    "cron": "ts-node ./scripts/cronJob.ts",
+    "test:news": "ts-node ./scripts/testNewsApi.ts",
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.2.4"
+    "@datastax/astra-db-ts": "^1.1.0",
+    "@langchain/community": "^0.3.38",
+    "ai": "^3.0.19",
+    "axios": "^1.8.4",
+    "cassandra-driver": "^4.8.0",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.3.19",
+    "next": "^14.2.3",
+    "node-cron": "^3.0.3",
+    "openai": "^4.41.0",
+    "puppeteer": "^24.4.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
+    "@types/node-cron": "^3.0.11",
     "@types/react": "^19",
-    "@types/react-dom": "^19"
+    "@types/react-dom": "^19",
+    "typescript": "^5"
   }
 }
