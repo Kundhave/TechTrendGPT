@@ -4,7 +4,7 @@
   <img src="app/assets/TechTrendGPT_Logo.png" alt="TechTrendGPT Logo" width="200"/>
   <br/>
   <p>
-    <strong>An AI-powered chatbot specializing in technology discussions and real-time tech news updates</strong>
+    <strong>An RAG based chatbot specializing in technology discussions and real-time tech news updates</strong>
   </p>
 </div>
 
