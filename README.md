@@ -19,16 +19,14 @@
 - ⌨️ Markdown support for formatted responses
 - 🔗 Clickable links with proper formatting
 - 📜 Auto-scrolling with manual override capability
+  
+![image](https://github.com/user-attachments/assets/324a62c1-7649-4cb7-a748-955ca5232c46)
 
-<video width="320" height="240" controls>
-  <source src="app/assets/video1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![image](https://github.com/user-attachments/assets/e4061d9e-6292-40cb-abd8-1838dd48b9c6)
 
-<video width="320" height="240" controls>
-  <source src="app/assets/video2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![image](https://github.com/user-attachments/assets/ad56e417-5836-4df2-8b73-12964cfe8938)
+
+## Check Linkedln for video demo
 
 ## 🛠️ Tech Stack
 
