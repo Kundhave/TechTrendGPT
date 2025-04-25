@@ -8,19 +8,6 @@
   </p>
 </div>
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Project Structure](#project-structure)
-- [Key Components](#key-components)
-- [API Integration](#api-integration)
-- [Scheduled Updates](#scheduled-updates)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## ✨ Features
 
 - 💬 Real-time chat interface with AI responses
