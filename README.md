@@ -71,12 +71,6 @@ Before you begin, ensure you have the following installed:
 5. **Access the application**
    Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🔑 Environment Variables
-
-| Variable | Description | Required |
-|----------|-------------|----------|
-| `OPENAI_API_KEY` | Your OpenAI API key | Yes |
-| `NEWS_API_KEY` | Your NewsAPI key | Yes |
 
 ## 📁 Project Structure
 
