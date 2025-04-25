@@ -2,8 +2,6 @@
 
 TechTrendGPT is an AI-powered chatbot that specializes in technology-related discussions and provides real-time updates on tech news. Built with Next.js and the OpenAI API, it offers an intuitive interface similar to ChatGPT while focusing specifically on technology topics.
 
-![TechTrendGPT Logo](app/assets/TechTrendGPT_Logo.png)
-
 ## Features ✨
 
 - 💬 Real-time chat interface with AI responses
