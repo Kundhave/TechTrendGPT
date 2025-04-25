@@ -1,7 +1,7 @@
 # TechTrendGPT 🤖
 
 <div align="center">
-  <img src="app/assets/TechTrendGPT_Logo.png" alt="TechTrendGPT Logo" width="500"/>
+  <img src="app/assets/TechTrendGPT_Logo.png" alt="TechTrendGPT Logo" width="350"/>
   <br/>
   <p>
     <strong>An RAG-based chatbot specializing in technology discussions and providing real-time tech news updates.</strong>
