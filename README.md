@@ -8,21 +8,6 @@
   </p>
 </div>
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech Stack](#tech-stack)
-- [RAG Implementation](#rag-implementation)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Environment Variables](#environment-variables)
-- [Project Structure](#project-structure)
-- [Key Components](#key-components)
-- [API Integration](#api-integration)
-- [Scheduled Updates](#scheduled-updates)
-- [Contributing](#contributing)
-
 ## 📝 Overview
 
 TechTrendGPT is a sophisticated chatbot that combines Retrieval-Augmented Generation (RAG) with real-time tech news updates to provide accurate, context-aware responses about technology trends and developments. The system uses a vector database to store and retrieve relevant information, ensuring responses are both accurate and up-to-date.
@@ -287,13 +272,5 @@ yarn cron
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-<div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
-</div>
-
+ok byee:)
