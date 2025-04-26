@@ -168,17 +168,6 @@ Before you begin, ensure you have the following installed:
 6. **Access the application**
    Open [http://localhost:3000](http://localhost:3000) in your browser
 
-## 🔑 Environment Variables
-
-| Variable | Description | Required |
-|----------|-------------|----------|
-| `OPENAI_API_KEY` | Your OpenAI API key | Yes |
-| `NEWS_API_KEY` | Your NewsAPI key | Yes |
-| `ASTRA_DB_NAMESPACE` | Your Astra DB namespace | Yes |
-| `ASTRA_DB_COLLECTION` | Your collection name | Yes |
-| `ASTRA_DB_API_ENDPOINT` | Your Astra DB endpoint | Yes |
-| `ASTRA_DB_APPLICATION_TOKEN` | Your Astra DB token | Yes |
-
 ## 📁 Project Structure
 
 ```
