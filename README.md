@@ -35,11 +35,7 @@ TechTrendGPT is a sophisticated chatbot that combines Retrieval-Augmented Genera
 - 🔄 Streaming response support
 - 📱 Mobile-optimized formatting
   
-![image](https://github.com/user-attachments/assets/324a62c1-7649-4cb7-a748-955ca5232c46)
-
-![image](https://github.com/user-attachments/assets/e4061d9e-6292-40cb-abd8-1838dd48b9c6)
-
-![image](https://github.com/user-attachments/assets/ad56e417-5836-4df2-8b73-12964cfe8938)
+## [Click here for video demo](https://vimeo.com/1079073838/6d54e95dcc?share=copy)
 
 ## 🏗️ Architecture
 
