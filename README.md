@@ -14,7 +14,7 @@ TechTrendGPT is a sophisticated chatbot that combines Retrieval-Augmented Genera
 
 ## ✨ Features
 
-### Core Features
+### Core Features 
 - 🔍 RAG (Retrieval-Augmented Generation) for accurate, context-aware responses
 - 💬 Real-time chat interface with AI responses
 - 📱 Fully responsive design for mobile and desktop
