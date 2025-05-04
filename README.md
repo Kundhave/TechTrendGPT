@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1626d975-53f5-4c43-a6d7-b401a4e56929" alt="image" width="200"/>
-<br/>
+<br/>  
   <p>
     <strong>An RAG-based chatbot specializing in technology discussions and real-time tech news updates</strong> 
   </p>
